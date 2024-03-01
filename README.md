@@ -56,3 +56,9 @@ Demographics and Order Frequency: An exploration of the age-gender nexus shed li
 Sales Channels and Categories: Strategic data modeling unveiled the most lucrative sales channels and identified the highest-selling product categories, offering a roadmap for focused business strategies.
 
 In conclusion, this project demonstrates the transformative power of data in optimizing supermarket operations. By combining data cleaning precision with strategic modeling, the owner is now equipped with actionable insights, poised to make informed decisions that will drive sustained growth. The journey from raw data to actionable insights is a testament to the significance of data-driven decision-making in today's dynamic business landscape. 🌐✨ #DataAnalysis #BusinessIntelligence #ExcelMagic #SalesStrategy #DataDrivenDecisions
+
+
+
+<img width="928" alt="Screenshot 2024-03-02 034223" src="https://github.com/SiddharthArora45/SuperMarket-Store-Data-Analysis/assets/145923642/7bab87be-3543-4f2d-9b08-3cdbca1f33bb">
+
+
